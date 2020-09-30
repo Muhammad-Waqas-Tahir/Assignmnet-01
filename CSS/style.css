@@ -1,0 +1,15 @@
+.bg-dark {
+
+    background-color: #24a19c !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+    margin: 0.5em;
+    font-weight: bold;
+}
