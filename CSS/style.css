@@ -1,6 +1,7 @@
 .bg-dark {
 
-    background-color: #24a19c !important;
+    background-color: #2d3338 !important;
+
 }
 
 .navbar-brand {
@@ -12,4 +13,10 @@
     color: white !important;
     margin: 0.5em;
     font-weight: bold;
+
+}
+
+.navbar {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
