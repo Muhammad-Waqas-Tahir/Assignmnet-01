@@ -11,12 +11,27 @@
 
 .nav-link {
     color: white !important;
-    margin: 0.5em;
-    font-weight: bold;
+    /* margin: 0.5em;
+    font-weight: bold; */
 
 }
 
-.navbar {
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
-}
+/* .form-inline {
+
+
+    float: left;
+} */
+
+/* .navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 15px;
+    border: 1px solid transparent;
+} */
+
+
+/* .carousel-inner {
+    width: 100%;
+    max-height: 200px !important;
+    
+/ */
