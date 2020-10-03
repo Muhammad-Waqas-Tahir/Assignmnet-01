@@ -1,20 +1,98 @@
 .bg-dark {
 
-    background-color: #2d3338 !important;
+    background-color: white !important;
 
 }
 
+.navbar-brand {
+    margin-left: 50px;
+    color: rgb(0, 0, 0) !important;
+}
 
 
 .nav-link {
-    color: white !important;
+    color: rgb(0, 0, 0) !important;
     font-weight: 30px;
+    /* padding-right: 80px; */
+    /* margin-left: 30px; */
+    /* margin-right: 100px; */
 
 
 
 }
 
-.conatiner {
+/* .carousel-caption {
+
+    text-align: center !important;
+    color: rgb(255, 255, 255) !important;
+    height: 430px;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    position: sticky;
+
+
+} */
+.carousel-caption {
+    color: rgb(255, 255, 255) !important;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    top: 25%;
+    height: 400px;
+
+}
+
+.carousel-caption h1 {
+    color: rgb(255, 255, 255) !important;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+    /* font-size: 20px; */
+    top: 2%;
+    /* height: 400px; */
+
+}
+
+body {
+
+    overflow: hidden;
+    height: 100%;
+}
+
+.container {
+
+    display: flex;
+}
+
+/* .paragraph {
+
+    text-align: center;
+    height: 200px;
+
+} */
+
+
+
+
+
+.carousel-item:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(71, 70, 70, 0.781);
+}
+
+#desire {
+    color: #4bcc5a;
+
+}
+
+
+
+/* .conatiner {
 
     display: flex;
     justify-content: center;
@@ -22,11 +100,11 @@
     padding-left: 20px;
     padding-top: 30px;
 
-}
+} */
 
 
 
-.form-control {
+/* .form-control {
     padding-right: 100px;
 }
 
@@ -43,7 +121,7 @@
 .btn {
     padding: 5px;
     margin-left: 25px;
-}
+} */
 
 /* .form-control {
 
