@@ -29,6 +29,9 @@
     font-family: Poppins, sans-serif;
     font-weight: 700;
     position: sticky;
+    postiion abosuote
+    top 50%
+    transform: translatey(-50%);
 
 
 } */
