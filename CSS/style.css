@@ -1,18 +1,21 @@
-.bg-dark {
+/* .bg-dark {
 
-    background-color: white !important;
+    background-color: rgb(61, 61, 61) !important;
 
-}
+} */
 
 .navbar-brand {
     margin-left: 50px;
-    color: rgb(0, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
+
+
 }
 
 
 .nav-link {
-    color: rgb(0, 0, 0) !important;
-    font-weight: 30px;
+    color: rgb(255, 255, 255) !important;
+
+
     /* padding-right: 80px; */
     /* margin-left: 30px; */
     /* margin-right: 100px; */
@@ -218,9 +221,7 @@
     box-shadow: 0px 8px 10px 1px #757575
 }
 
-.carousel-inner {
-    height: 700px;
-}
+
 
 #heading_3 {
     text-align: center;
