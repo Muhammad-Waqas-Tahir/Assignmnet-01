@@ -55,6 +55,12 @@
     background: rgba(71, 70, 70, 0.781);
 }
 
+.form-inline {
+    margin-left: 25em;
+    /* padding-left: 5em; */
+
+}
+
 
 .container {
 
