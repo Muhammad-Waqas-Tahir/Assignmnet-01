@@ -93,12 +93,10 @@
 .login {
 
     margin-top: 10em;
-    margin-left: 20em;
+
 
 }
 
-/* #login_input {
-
-    padding-right: 30em;
-    color: grey;
-}  */
+.new_user a {
+    color: rgb(37, 37, 37);
+}
