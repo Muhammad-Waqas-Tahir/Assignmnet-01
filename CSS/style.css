@@ -101,12 +101,137 @@
     color: rgb(37, 37, 37);
 }
 
-/* .form-control:valid {
-    background-color: #e9e9e9 !important;
-} */
+.foter {
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
 
-/* .foter {
+.footer-top {
+    background: #111;
+    padding: 80px 0;
+}
 
-    display: block;
-    background-color: blue;
-} */
+.segment-one h3 {
+
+    color: #fff;
+    letter-spacing: 1px;
+
+    margin-left: 20px;
+}
+
+.segment-one p {
+    color: #999;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
+.segment-two h3 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.segment-two h3:before {
+    content: '|';
+    color: #c65029;
+    padding-right: 10px;
+}
+
+.segment-two ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.segment-two ul li {
+    line-height: 40px;
+
+}
+
+.segment-two ul li a {
+    color: #999;
+    text-decoration: none;
+}
+
+.segment-three h3 {
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+.segment-three h3:before {
+    content: '|';
+    color: #c65029;
+    padding-right: 10px;
+}
+
+.segment-three a {
+    background: #ffffff;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.segment-three fa-facebook {
+    background: blue;
+}
+
+.segment-three a i {
+    font-size: 20px;
+    color: rgb(34, 34, 34);
+    padding: 10px 12px;
+}
+
+
+.segment-four h3 {
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+.segment-four h3:before {
+    content: '|';
+    color: #c65029;
+    padding-right: 10px;
+}
+
+.segment-four form input[type=submit] {
+
+    background: #c65039;
+    border: none;
+    padding: 3px 15px;
+    margin-left: -5px;
+    color: #fff;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.footer-bottom {
+    text-align: center;
+    background-color: #000;
+    line-height: 75px;
+    color: white;
+
+}
+
+@media only screen and (min-width:786px)and (max-width:991px) {
+
+    .md-mb-30 {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+
+    .sm-mb-30 {
+        margin-bottom: 30px;
+    }
+
+    .footer-top {
+        padding: 50px 0;
+    }
+}
