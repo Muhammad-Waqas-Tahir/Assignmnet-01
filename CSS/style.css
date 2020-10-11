@@ -129,6 +129,8 @@
     margin-left: 20px;
 }
 
+
+
 .segment-two h3 {
     color: #fff;
     text-transform: uppercase;
@@ -156,6 +158,12 @@
     text-decoration: none;
 }
 
+.segment-three p {
+    color: #999;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
 .segment-three h3 {
     color: #fff;
     text-transform: uppercase;
@@ -176,9 +184,6 @@
     border-radius: 50px;
 }
 
-.segment-three fa-facebook {
-    background: blue;
-}
 
 .segment-three a i {
     font-size: 20px;
@@ -186,6 +191,11 @@
     padding: 10px 12px;
 }
 
+.segment-four p {
+    color: #999;
+    line-height: 25px;
+    margin-left: 20px;
+}
 
 .segment-four h3 {
     color: #fff;
